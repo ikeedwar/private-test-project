@@ -1,3 +1,3 @@
-module github.com/private-test-project
+module github.com/ikeedwar/private-test-project
 
 go 1.18
