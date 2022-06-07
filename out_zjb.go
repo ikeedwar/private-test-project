@@ -5,5 +5,5 @@ import (
 )
 
 func testOutZjb() {
-	service.TestServiceOut("zjb")
+	service.TestServiceOut("zjb02")
 }
