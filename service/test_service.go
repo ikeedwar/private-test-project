@@ -2,6 +2,6 @@ package service
 
 import "fmt"
 
-func test(p string) {
+func TestServiceOut(p string) {
 	fmt.Println(p)
 }
